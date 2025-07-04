@@ -1,6 +1,6 @@
 :root{
-    --cor-fundo: #b6d2ea ;
-    --cor-principal: #4e5062 ;
+    --cor-fundo: hsl(208, 55%, 82%) ;
+    --cor-principal: #9b9b9e ;
     --cor-secundaria: #747686; 
     --cor-destaque: #30247e;
     --cor-texto: #D7F9FF;
